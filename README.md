@@ -13,3 +13,9 @@ Read JSON configuration files which describe SQL queries and extract implicit ta
 ### TODO
 - Build the dependency graph
 - Display the graph using DFS
+
+### Execution
+```
+> pip install -r requirements.txt
+> python main.py
+```
